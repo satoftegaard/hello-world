@@ -1,0 +1,35 @@
+html {
+  text-size-adjust: 100%;
+
+}
+
+body {
+  margin: auto;
+  margin-top: 10em;
+  margin-bottom: auto;
+  width: 40em;
+  text-align: center;
+  background-color: #FF6A4E;
+}
+
+h1 {
+line-height: 1em;
+font-size: 3em;
+font-family: 'Roboto', sans-serif;
+}
+
+p {
+line-height: 1.5em;
+font-size: 1.2em;
+font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  line-height: 1.5em;
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.list{
+  display:inline-block;
+}
